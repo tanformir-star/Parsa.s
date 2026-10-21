@@ -1,0 +1,6 @@
+{
+  "name": "Parsa Saberi - تبدیل متن به صدای طبیعی",
+  "description": "سامانه حرفه‌ای تبدیل متن فارسی به گفتار و صدای طبیعی با ۳۰ صدای متنوع، بدون نیاز به ثبت‌نام و دانلود فایل MP3",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
